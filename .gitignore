@@ -1,0 +1,7 @@
+### Godot ###
+
+# Godot-specific ignores
+templates/
+app_userdata/
+projects/
+
