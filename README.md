@@ -1,2 +1,1 @@
-#Ryan's Godot editor settings repo
-
+# Ryan's Godot editor settings
